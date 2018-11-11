@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733208640975",
+    "firebase_url": "https://flashcards-dca0a.firebaseio.com",
+    "project_id": "flashcards-dca0a",
+    "storage_bucket": "flashcards-dca0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733208640975:android:9b6455f9c9d70712",
+        "android_client_info": {
+          "package_name": "com.nishan.flashcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733208640975-pkr465fm6de9li6o92g6sl7i1eg8npmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishan.flashcards",
+            "certificate_hash": "a9d71f90ae0cc03987c2631df00ac588ea45a423"
+          }
+        },
+        {
+          "client_id": "733208640975-ns1vk4u12q3ktlb8tvg2pu0jnji5qke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-2EKV42hHPIUxvqhXOSFP_D1575XFxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733208640975-ns1vk4u12q3ktlb8tvg2pu0jnji5qke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
